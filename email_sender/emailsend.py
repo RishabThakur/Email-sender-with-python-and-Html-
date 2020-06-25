@@ -1,5 +1,5 @@
 '''   
-  IMPORTANT NOTE : impot all the modules before running the code
+  IMPORTANT NOTE : import all the modules before running the code
 '''
 import smtplib
 from email.message import EmailMessage
